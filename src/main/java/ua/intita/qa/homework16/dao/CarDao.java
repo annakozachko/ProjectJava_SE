@@ -6,11 +6,11 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-public class CarDao implements CommonDao<Car>{
+public class CarDao implements CommonDao<Car> {
     private final Map<String, Car> cars = new HashMap<String, Car>();
 
     @Override
-    public Car save(Car car){
+    public Car save(Car car) {
         Car result = cars.get(car.getCarId());
 
         if (result != null) {
