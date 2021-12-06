@@ -1,7 +1,7 @@
 package ua.intita.qa.homework17.taskPets;
 
 public class Pet {
-    private int id;
+    public int id;
 
     public Pet(){
 

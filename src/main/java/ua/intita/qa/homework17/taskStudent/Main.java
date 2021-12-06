@@ -6,8 +6,9 @@ import java.util.List;
 
 public class Main {
     private static Object List;
+    private static Object ArrayList;
 
-    public static void main(String[] args) {
+    public static java.util.List<Student> main(String[] args) {
 
         //ArrayList<Student> students = new ArrayList<>();
         List<Student> students = new ArrayList<>();
@@ -23,25 +24,27 @@ public class Main {
         students.add(students4);
         students.add(students5);
 
-        Iterator itr = students.iterator();
-
-        while (itr.hasNext()) {
-            Object element = itr.next();
-            // if (students.< 3){
-                System.out.println(element + " ");
-            }
-
-
-//        for (Student st : students) {
-//            if (st.getAssessment() < 3) {
-//                students.remove(st);
-//            }
-//            if (st.getAssessment() >= 3) {
-//                System.out.println("You are moving to the next course");
-//
-//            }
-
         Student.printStudents(students, students1.getCourse());
+
+        public List<Student> transferOfTheStudentToTheNextCourse(ArrayList<Student> students) {
+            Iterator<Student> itr = students.iterator();
+
+            while (itr.hasNext()) {
+                Student student = itr.next();
+                if (student.getAssessment() < 3) {
+                    itr.remove();
+                } else {
+                    int newCourse = student.getCourse();
+                    newCourse++;
+                    student.setCourse(newCourse);
+                }
+            }
+            return students;
+        }
+
+
+
+
 
         }
     }

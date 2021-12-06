@@ -31,14 +31,11 @@ public class Main {
                 new Animal("Bobik", 5),
                 new Animal("Kesha", 2));
 
-        animalStream.sorted(new AnimalComparator()).forEach(p-> System.out.println("%s (%s) - %d \n",
-                p.getName(),
-                p.getAge()));
+        animalStream.sorted(new AnimalComparator()).forEach(p-> System.out.println("%s (%s) - %d \n", p.getName(), p.getAge()));
 
+        for(AnimalComparator p: animalStream){
 
-
-
-
+}
 
 
 //        Cat  t= (Cat)pets.get("Barsik");
