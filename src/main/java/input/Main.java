@@ -12,7 +12,7 @@ public class Main {
 
           byte[] bytes = new byte[fis.available()];
             fis.read(bytes);
-           fos.write(bytes);
+            fos.write(bytes);
 
         } catch (IOException e) {
             e.printStackTrace();
