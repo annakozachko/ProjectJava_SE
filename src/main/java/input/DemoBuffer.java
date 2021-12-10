@@ -44,8 +44,8 @@ public class DemoBuffer {
             e.printStackTrace();
         }
 
-       try( Scanner scanner = new Scanner(new FileInputStream("data/i.txt"));
-        scanner
+//       try( Scanner scanner = new Scanner(new FileInputStream("data/i.txt"));
+//        scanner
 //        try(  BufferedReader reader = new BufferedReader(new FileReader("data/reader_in.txt"));
 //              BufferedWriter writer = new BufferedWriter(new FileWriter("wr_out.txt"))){
 //
