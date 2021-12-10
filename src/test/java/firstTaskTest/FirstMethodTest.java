@@ -1,6 +1,6 @@
 package firstTaskTest;
 
-import org.junit.Test;
+//import org.junit.Test;
 import ua.intita.qa.homework16.firstTask.FirstMethod;
 
 import java.util.List;
