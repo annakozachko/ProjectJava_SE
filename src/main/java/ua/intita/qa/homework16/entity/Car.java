@@ -13,7 +13,7 @@ public class Car {
     private String carId;
    private String name;
    private String model;
-    private int year;
+    private String year;
 
     public Car() {
         carId = UUID.randomUUID().toString();
