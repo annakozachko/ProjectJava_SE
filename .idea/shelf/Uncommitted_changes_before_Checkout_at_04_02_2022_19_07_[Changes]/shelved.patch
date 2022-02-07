@@ -1,0 +1,18 @@
+Index: target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+===================================================================
+diff --git a/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst b/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+new file mode 100644
+--- /dev/null	
++++ b/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst	
+@@ -0,0 +1,2 @@
++generics\SuperExtend.class
++args\DemoArg.class
+Index: target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+===================================================================
+diff --git a/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst b/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+new file mode 100644
+--- /dev/null	
++++ b/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst	
+@@ -0,0 +1,2 @@
++generics\SuperExtend.class
++args\DemoArg.class

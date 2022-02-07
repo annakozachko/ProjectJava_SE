@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e010542c-7036-49d4-b603-0301e64195f1" name="Changes" comment="add file car.csv">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/intita/qa/homework21/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/intita/qa/homework21/StreamLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/intita/qa/homework21/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/intita/qa/homework21/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/intita/qa/homework21/Entity.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HomeWork_Lesson16" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="218pJMs0rfPMzS25KCpQTazvY6p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Ania" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ua.intita.qa.homework17.taskPets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\annak\IdeaProjects\ProjectJava_SEA\data" />
+      <recent name="C:\Users\annak\IdeaProjects\ProjectJava_SEA" />
+      <recent name="C:\Users\annak\IdeaProjects\ProjectJava_SEA\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annak\IdeaProjects\ProjectJava_SEA\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="DemoDeserialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input.DemoDeserialize" />
+      <module name="project-java-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input.DemoFile" />
+      <module name="project-java-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoSerialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="input.DemoSerialize" />
+      <module name="project-java-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.intita.qa.homework21.Main" />
+      <module name="project-java-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.intita.qa.homework21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.intita.qa.homework16.entity.Program" />
+      <module name="project-java-se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.intita.qa.homework16.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.DemoFile" />
+        <item itemvalue="Application.DemoDeserialize" />
+        <item itemvalue="Application.DemoSerialize" />
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e010542c-7036-49d4-b603-0301e64195f1" name="Changes" comment="" />
+      <created>1637332496609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637332496609</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add Car class">
+      <created>1637932890881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637932890882</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add task 15, and 16, but not all over">
+      <created>1638135405250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638135405250</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add task 16 First task">
+      <created>1638524256620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638524256621</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add task 17">
+      <created>1638658077026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638658077027</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add task 17">
+      <created>1638799172646</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638799172646</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add task 17">
+      <created>1639130804475</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639130804475</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add task 18">
+      <created>1639144884694</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639144884694</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add task 18">
+      <created>1639147131873</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639147131873</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add homework 18 task 3">
+      <created>1639329582477</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639329582477</updated>
+    </task>
+    <task id="LOCAL-00010" summary="q">
+      <created>1643993074955</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643993074955</updated>
+    </task>
+    <task id="LOCAL-00011" summary="q">
+      <created>1643993717673</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1643993717673</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add Car class">
+      <created>1643994401083</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1643994401083</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add Car class">
+      <created>1643994992615</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1643994992615</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add file car.csv">
+      <created>1643995053213</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643995053213</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Car class" />
+    <MESSAGE value="Add task 15, and 16, but not all over" />
+    <MESSAGE value="Add task 16 First task" />
+    <MESSAGE value="Add task 17" />
+    <MESSAGE value="Add task 18" />
+    <MESSAGE value="Add homework 18 task 3" />
+    <MESSAGE value="q" />
+    <MESSAGE value="add Car class" />
+    <MESSAGE value="add file car.csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file car.csv" />
+  </component>
+</project>
